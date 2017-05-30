@@ -1,0 +1,27 @@
+h1{color:red;}
+/* style.css */
+body{
+  background: rgb(187, 210, 225);
+  color: green;
+  font-size: 25px;
+  font-family: font-family: 'Playfair Display', serif;
+;
+}
+h1{
+  font-family: 'Playfair Display', serif;
+  color: red;
+  font-weight: bolder;
+  font-size: 28px;
+}
+h2 {font-family: 'Playfair Display', serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 18px;
+}
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
